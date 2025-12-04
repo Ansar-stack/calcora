@@ -1,0 +1,7 @@
+# Create .gitignore file
+cat > .gitignore << EOF
+*
+!.gitignore
+!out/
+!out/**
+EOF
