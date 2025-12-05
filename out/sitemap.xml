@@ -1,370 +1,506 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>http://localhost:3000</loc>
-
-        <lastmod>2025-10-5</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-</url>
-
-
+    <!-- Homepage (no .html extension) -->
     <url>
-        <loc>http://localhost:3000/construction-calculators</loc>
-        <lastmod>2025-10-5</lastmod>
+        <loc>https://www.calcora.us/</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/contact-us</loc>
-        <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/finance-calculators</loc>
-        <lastmod>2025-10-5</lastmod>
+    </url>
+    
+    <!-- Category Pages -->
+    <url>
+        <loc>https://www.calcora.us/construction-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/general-calculators</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/geometry-calculators</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/general-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/math-calculators</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/geometry-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/privacy-policy</loc>
-        <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/health-calculators</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        </url>
-        <url>
-        <loc>http://localhost:3000/conversion-calculators</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/health-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        </url>
-
-<url>
-        <loc>http://localhost:3000/construction-calculators/brick-wall-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/conversion-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Lifestyle Category -->
+    <url>
+        <loc>https://www.calcora.us/lifestyle-calculators.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Secondary Pages -->
+    <url>
+        <loc>https://www.calcora.us/contact-us.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/construction-calculators/calculate-density-from-mass-and-volume</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/privacy-policy.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- Individual Calculator Pages -->
+    <url>
+        <loc>https://www.calcora.us/construction-calculators/brick-wall-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/construction-calculators/calculate-tile-needed</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/construction-calculators/calculate-density-from-mass-and-volume.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/construction-calculators/concrete-volume-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/construction-calculators/calculate-tile-needed.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/construction-calculators/road-construction-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/construction-calculators/concrete-volume-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/construction-calculators/road-marking-paint-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/construction-calculators/road-construction-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/conversion-calculators/binary-to-decimal-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/construction-calculators/road-marking-paint-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/conversion-calculators/binary-to-hexadecimal-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/conversion-calculators/binary-to-decimal-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/conversion-calculators/decimal-to-binary-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/conversion-calculators/binary-to-hexadecimal-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/conversion-calculators/decimal-to-hexadecimal-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/conversion-calculators/decimal-to-binary-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/conversion-calculators/hexadecimal-to-binary-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/conversion-calculators/decimal-to-hexadecimal-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/conversion-calculators/hexadecimal-to-decimal-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/conversion-calculators/hexadecimal-to-binary-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/401k-match-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/conversion-calculators/hexadecimal-to-decimal-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/coffee-profit-margin-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/401k-match-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/credit-card-payoff-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/coffee-profit-margin-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/credit-card-minimum-payment-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/credit-card-payoff-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/ecommerce-profit-margin-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/credit-card-minimum-payment-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/fixed-deposit-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/ecommerce-profit-margin-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/housing-loan-emi-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/fixed-deposit-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/paypal-commission-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/housing-loan-emi-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/profit-and-loss-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/paypal-commission-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/retirement-savings-withdrawal-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/profit-and-loss-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/rule-of-72-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/retirement-savings-withdrawal-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/finance-calculators/student-loan-repayment-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/rule-of-72-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/general-calculators/couple-compatibility-calculator-by-name</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/finance-calculators/student-loan-repayment-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/general-calculators/osu-pp-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/general-calculators/couple-compatibility-calculator-by-name.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/general-calculators/parking-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/general-calculators/osu-pp-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/general-calculators/restaurant-tip-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/general-calculators/parking-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/general-calculators/rio-staking-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/general-calculators/restaurant-tip-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/general-calculators/road-trip-fuel-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/general-calculators/rio-staking-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/geometry-calculators/area-of-circle-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/general-calculators/road-trip-fuel-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/geometry-calculators/area-of-trapezium-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/geometry-calculators/area-of-circle-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/geometry-calculators/calculate-hypotenuse-of-right-triangle</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/geometry-calculators/area-of-trapezium-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/geometry-calculators/interpolation-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/geometry-calculators/calculate-hypotenuse-of-right-triangle.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/geometry-calculators/midpoint-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/geometry-calculators/interpolation-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/geometry-calculators/perimeter-of-circle-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/geometry-calculators/midpoint-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/health-calculators/age-calculator-from-date-of-birth</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/geometry-calculators/perimeter-of-circle-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/health-calculators/basal-metabolic-rate-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/health-calculators/age-calculator-from-date-of-birth.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/health-calculators/body-mass-index-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/health-calculators/basal-metabolic-rate-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/health-calculators/cigerettes-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/health-calculators/body-mass-index-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/health-calculators/daily-water-consumption-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/health-calculators/cigerettes-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/health-calculators/heart-rate-zone-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/health-calculators/daily-water-consumption-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/lifestyle-calculators/home-renovation-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/health-calculators/heart-rate-zone-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/lifestyle-calculators/monthly-household-expenses-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/lifestyle-calculators/home-renovation-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/lifestyle-calculators/party-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/lifestyle-calculators/monthly-household-expenses-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/lifestyle-calculators/trip-expenses-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/lifestyle-calculators/party-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/lifestyle-calculators/wedding-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/lifestyle-calculators/trip-expenses-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/lifestyle-calculators/wine-cost-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/lifestyle-calculators/wedding-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/calculate-average-of-numbers</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/lifestyle-calculators/wine-cost-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/cube-root-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/calculate-average-of-numbers.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/discount-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/cube-root-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/exponentiation-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/discount-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/factorial-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/exponentiation-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/log-base-10-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/factorial-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/multiplication-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/log-base-10-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/percentage-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/multiplication-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/prime-number-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/percentage-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/quadratic-equation-solver</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/prime-number-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/square-root-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/quadratic-equation-solver.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url><url>
-        <loc>http://localhost:3000/math-calculators/tangent-calculator</loc>
-        <lastmod>2025-10-5</lastmod>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/square-root-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-        </url>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.calcora.us/math-calculators/tangent-calculator.html</loc>
+        <lastmod>2025-12-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
 </urlset>
