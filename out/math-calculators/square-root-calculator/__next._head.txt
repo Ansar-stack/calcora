@@ -2,6 +2,6 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"17uyCoANxF3P_2iwjK6wk","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"buildId":"T3-6g9oCfu9jZmIcqnmWw","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"Calculate Square Root of Any Number Instantly"}],["$","meta","1",{"name":"description","content":"Square root calculator – enter any number and get the square root instantly with our fast square root calculator."}]]
+6:[["$","title","0",{"children":"Square Root Calculator: Find √ of Any Number Online"}],["$","meta","1",{"name":"description","content":"Calculate square roots instantly with our free online calculator. Enter any number—whole, decimal, or large—and get accurate √ results immediately."}]]

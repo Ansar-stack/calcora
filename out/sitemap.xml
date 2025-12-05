@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Home Page -->
+
 <url>
 <loc>http://localhost:3000</loc>
 
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
 </url>
 
-<!-- Catagory pages -->
+
     <url>
         <loc>http://localhost:3000/construction-calculators</loc>
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         </url>
         <url>
@@ -26,25 +26,25 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
         <loc>http://localhost:3000/finance-calculators</loc>
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         </url>
         <url>
         <loc>http://localhost:3000/general-calculators</loc>
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         </url>
         <url>
         <loc>http://localhost:3000/geometry-calculators</loc>
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         </url>
         <url>
         <loc>http://localhost:3000/math-calculators</loc>
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         </url>
         <url>
@@ -56,17 +56,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
         <loc>http://localhost:3000/health-calculators</loc>
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         </url>
         <url>
         <loc>http://localhost:3000/conversion-calculators</loc>
         <lastmod>2025-10-5</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         </url>
 
-<!-- Calculators Page -->
 <url>
         <loc>http://localhost:3000/construction-calculators/brick-wall-calculator</loc>
         <lastmod>2025-10-5</lastmod>
