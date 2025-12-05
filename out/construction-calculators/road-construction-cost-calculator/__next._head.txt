@@ -2,6 +2,7 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"Ft3NTdeO6o7n4owZm7kfW","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+7:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+0:{"buildId":"UuR51Wvw-BeUphRoU00IK","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"Calculate Road Construction Costs Instantly Online"}],["$","meta","1",{"name":"description","content":"Road construction cost calculator: Enter project length, materials & labor rates to estimate total cost. Use our road repair or paving budget planner now."}]]
+6:[["$","title","0",{"children":"Calculate Road Construction Costs Instantly Online"}],["$","meta","1",{"name":"description","content":"Road construction cost calculator: Enter project length, materials & labor rates to estimate total cost. Use our road repair or paving budget planner now."}],["$","link","2",{"rel":"icon","href":"/ficon.png"}],["$","$L7","3",{}]]
