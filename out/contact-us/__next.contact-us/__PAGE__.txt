@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[29912,["/_next/static/chunks/1783f865636d82bb.js","/_next/static/chunks/96fcf55479d78f42.js","/_next/static/chunks/f9219179e59e374f.js"],"default"]
-3:I[95709,["/_next/static/chunks/1783f865636d82bb.js","/_next/static/chunks/96fcf55479d78f42.js","/_next/static/chunks/f9219179e59e374f.js"],"default"]
+2:I[29912,["/_next/static/chunks/1783f865636d82bb.js","/_next/static/chunks/07dca1a4994bb734.js","/_next/static/chunks/f9219179e59e374f.js"],"default"]
+3:I[95709,["/_next/static/chunks/1783f865636d82bb.js","/_next/static/chunks/07dca1a4994bb734.js","/_next/static/chunks/f9219179e59e374f.js"],"default"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"6Jc40sD-T36r9ZxB-liZn","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col items-center","children":[["$","$L2",null,{"heading":"Contacct Calcor - Support & Feedback","para":"Have questions about our calculators or need assistance? Contact Calcora easily via our form, and our team will help you promptly."}],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/f9219179e59e374f.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"OC7Ndrce96wRXpfsBuUAA","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col items-center","children":[["$","$L2",null,{"heading":"Contact Calcora - Support & Feedback","para":"Have questions about our calculators or need assistance? Contact Calcora easily via our form, and our team will help you promptly."}],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/f9219179e59e374f.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
