@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+body{
+    overflow-x: hidden;
+}
+.logo{
+    background: linear-gradient(to top, #5f95b9, #2563eb, rgb(29, 195, 29));
+    background-clip: text;
+    color: transparent;
+}
+.heading{
+    @apply tracking-tight text-center break-words leading-[5vw] md:leading-[3vw] text-[5vw] md:text-[3vw] max-w-[900px] font-semibold text-[#2563eb]
+}
+.calculatorContainer{
+    @apply my-10 w-[95vw] md:w-[50vw]  rounded-md shadow p-5 bg-white;
+}
+.pageContainer{
+    @apply flex flex-col items-center
+}
+.result_heading{
+    @apply font-semibold text-lg mb-3
+}
+.result{
+    @apply w-full  overflow-x-auto rounded-md p-5 shadow-sm  mt-5 border  bg-gray-50 text-lg font-semibold
+}
+.result_item{
+    @apply flex justify-between border-b py-1
+}
+.selectInput{
+    @apply w-full border border-gray-400 rounded-md px-2 py-1 outline-0 
+}
+.hoverAnimation{
+    @apply hover:text-blue-500 duration-200
+}
+.HeadingFontSize {
+    font-size: clamp(24px, 5vw, 45px);
+}
+.ParaFontSize {
+    font-size: clamp(16px, 2vw, 20px);
+}
+.para {
+    @apply mt-1 text-[#555555] tracking-tight max-w-3xl
+}
+.catagory {
+    @apply w-full mt-3 h-8 rounded-sm bg-blue-500
+}
+.text-last{
+    text-align-last: center;
+}
+.smallInput{
+    @apply py-2 px-2 outline-0 w-22 rounded-md border border-gray-400 
+}
