@@ -1,7 +1,4 @@
-# Create .gitignore file
-cat > .gitignore << EOF
-*
-!.gitignore
-!out/
-!out/**
-EOF
+.next/
+node_modules/
+.env copy.local
+.env.local
